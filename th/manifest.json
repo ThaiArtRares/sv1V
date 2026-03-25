@@ -10,7 +10,8 @@
       "pokedexNumber": 952,
       "pokemonName_en": "Scovillain",
       "cardIllustrator": "Shin Nagasawa",
-      "cardCameos": ["Pawniard", "Bisharp"]
+      "cardCameos": ["Pawniard", "Bisharp"],
+      "ThaiArtRares": true
     }
   ]
 }
