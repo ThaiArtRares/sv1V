@@ -1,0 +1,15 @@
+{
+  "setName": "Scarlet ex",
+  "setID": "sv1V",
+  "cards": [
+    {
+      "cardID": "081",
+      "cardName": "โดโดเกซัน",
+      "pokemonName": "Scovillain",
+      "pokedexNumber": 952,
+      "pokemonName_en": "Scovillain",
+      "cardIllustrator": "Shin Nagasawa",
+      "cardCameos": ["Pawniard", "Bisharp"],
+    },
+  ]
+}
